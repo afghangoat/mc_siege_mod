@@ -1,0 +1,16 @@
+[
+{
+  "modid": "siege_mod",
+  "name": "Afghan Goat's Siege Mod",
+  "description": "A mod which adds siege weapons and many other things.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AfghanGoat"],
+  "credits": "AfghanGoat, macskacico for helping me set this shit up!",
+  "logoFile": "icon.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
